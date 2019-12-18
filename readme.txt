@@ -19,10 +19,9 @@ WP Crowdfunding Login Redirect to CF Dashboard
 a.
 1. Go to the Plugins menu
 2. Add new plugin
-3. Search "Tutor LMS Author"
+3. Search "Crowdfunding Login Redirect"
 4. Install and activate
-5. Go to Tutor LMS > Courses > change the author
-6. Enjoy
+5. Enjoy
 
 
 b.  
@@ -30,18 +29,13 @@ b.
 2. Activate the plugin through the 'Plugins' screen in WordPress
 3. Now check "Product" tab and click any Product "Quick Edit" button and change the Author.
 4. Install and activate
-5. Go to Tutor LMS > Courses > change the author
-6. Enjoy
+5. Enjoy
 
 == Frequently Asked Questions ==
 
-= Only for Tutor LMS =
+= Only for WP Crowdfunding =
 
-Yes, this plugin only works for Tutor LMS
-
-= Do I need another account user =
-
-Yes, this plugin only works when you have another Administrator/Editor/Author account.
+Yes, this plugin only works for WP Crowdfunding. If you want to redirect to another page, just ask on the support.
 
 = Do I need to do anything after installation =
 
