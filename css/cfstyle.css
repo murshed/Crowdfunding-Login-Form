@@ -1,0 +1,9 @@
+/*
+* Crowdfunding Login Redirect
+*/
+input#user_login {
+    width: 100%;
+}
+input#user_pass {
+    width: 100%;
+}
