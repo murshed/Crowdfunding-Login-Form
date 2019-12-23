@@ -21,13 +21,14 @@ a.
 2. Add new plugin
 3. Search "Crowdfunding Login Redirect"
 4. Install and activate
-5. Enjoy
+5. Create a new page and add this shortcode: [wp_login_form redirect="https://Your-Site.test/login/cf-dashboard"]
+6. Enjoy
 
 
 b.  
 1. Upload the plugin files to the `/wp-content/plugins/plugin-name` directory, or install the plugin through the WordPress plugins screen directly.
 2. Activate the plugin through the 'Plugins' screen in WordPress
-3. Install and activate
+3. Create a new page and add this shortcode: [wp_login_form redirect="https://Your-Site.test/login/cf-dashboard"]
 4. Enjoy
 
 == Frequently Asked Questions ==
@@ -38,7 +39,7 @@ Yes, this plugin only works for WP Crowdfunding. If you want to redirect to anot
 
 = Do I need to do anything after installation =
 
-No, just install and activate. Enjoy.
+No, just install and activate. Add the shortcode "[wp_login_form redirect="https://cfpro.test/login/cf-dashboard"]" Enjoy.
 
 == Screenshots ==
 
