@@ -1,4 +1,4 @@
-=== Crowdfunding Login Redirect ===
+=== Crowdfunding Login Form ===
 Contributors: FahimMurshed
 Donate link: http://www.murshidalam.com/donation
 Tags: crowdfunding, login-redirect, dashboard
