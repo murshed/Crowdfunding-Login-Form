@@ -9,17 +9,17 @@ Stable tag: trunk
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html
 
-WP Crowdfunding Login Redirect to CF Dashboard
+WP Crowdfunding Login Form to CF Dashboard
 
 == Description ==
 
-WP Crowdfunding Login Redirect to CF Dashboard
+WP Crowdfunding Login Form to CF Dashboard
 
 == Installation ==
 a.
 1. Go to the Plugins menu
 2. Add new plugin
-3. Search "Crowdfunding Login Redirect"
+3. Search "Crowdfunding Login Form"
 4. Install and activate
 5. Create a new page and add this shortcode: [wp_login_form redirect="https://Your-Site.test/login/cf-dashboard"]
 6. Enjoy
